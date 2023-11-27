@@ -1,0 +1,22 @@
+package practiceCode;
+
+public class PrintHelloWorld {
+	
+	
+static void printHelloWorld()
+{
+	int count=1;
+while(count<=10)
+{
+	System.out.println("Hello World "+count);
+	count++;
+}	
+}
+	
+
+	public static void main(String[] args) {
+	
+		
+	}
+
+}
